@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#IDM 311 Changes
+*.DS_Store
+Library/
+Temp/
+Build*/
